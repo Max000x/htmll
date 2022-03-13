@@ -235,7 +235,7 @@ h1 {
 }
 
 .company-three {
-    background-image: url(../ING/boohoo.png);
+    background-image: url(../IMG/boohoo.png);
     height: 47px;
 }
 
@@ -870,27 +870,27 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#584cff', end
     background-size: cover;
 }
 
-.bg-12 {
+.fugures {
     margin: 0 200px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.bg-12 img {
+.fugures img {
     display: flex;
     justify-content: center;
     align-items: center;
     margin: 40px;
 }
 
-.bg-12 form {
+.fugures form {
     display: flex;
     flex-direction: column;
     margin: 150px 20px;
 }
 
-.bg-12 h2 {
+.fugures h2 {
     font-size: 40px;
     font-weight: 600px;
     color: #192b59;
@@ -899,7 +899,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#584cff', end
     margin-bottom: 25px;
     max-width: 400px;
 }
-.bg-12 input {
+.fugures input {
     margin: 10px;
     border: 1px solid #dce1e5;
     border-radius: 40px;
@@ -908,17 +908,17 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#584cff', end
     width: 500px;
 }
   
-.bg-12 input:focus {
+.fugures input:focus {
     outline: none;
 }
   
 
-.bg-12 input:hover {
+.fugures input:hover {
     color: black;
     background-color: #fff;
 }
 
-.bg-12 textarea {
+.fugures textarea {
     margin: 10px;
     border: 1px solid #dce1e5;
     border-radius: 40px;
@@ -927,21 +927,21 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#584cff', end
     width: 500px;
 }
 
-.bg-12 textarea:focus {
+.fugures textarea:focus {
     color: black;
     background-color: #fff;
 }
 
-.bg-12 textarea:focus {
+.fugures textarea:focus {
     outline: none;
     line-height: 1.1;
 }
 
-.bg-12 button {
+.fugures button {
     max-width: 250px;
 }
 
-.bg-12 span {
+.fugures span {
     display: block;
     text-align: center;
     padding: 0;
